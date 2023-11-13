@@ -1,0 +1,254 @@
+* {
+	padding: 0;
+	margin: 0;
+
+}
+
+header{
+	height: 250px;
+	background: #d3a4ff;
+}
+nav {
+	height: 50px;	
+	background: #A569BD;
+}
+section{
+	height: 1200px;
+	background: #A569BD;
+}
+article{
+	height: 560px;
+	width: 200px;
+	background: #A569BD;
+
+}
+footer{
+	height: 200px;
+	background: grey;
+}
+
+#menu{
+	background: #A569BD;
+	height: 50px;
+
+}
+#menu ul{
+	list-style: none;
+	padding: 0px;
+
+}
+#menu .item{
+	float: left;
+}
+#menu .item a{
+	background: #d3a4ff;
+	color: black;
+	padding: 6px 50px;
+	display: block;
+	font-family: Comic Sans MS;
+	font-size:20px;
+	text-decoration: none;
+	border-radius: 20px;
+
+
+}
+#menu .desple{
+display: 0;
+}
+#menu .item :homer .desple{
+	display: block;
+}
+#menu .item>a :hover{
+	background: green;
+	color: black;
+
+}
+
+
+
+
+
+#ig{	
+	height: 30px;
+	width: 30px;
+	vertical-align: middle;
+}
+
+#panel{
+	width: 270px;
+	height: 250px;
+}
+#ar{	
+	height: 350px;
+	width: 330px;
+	font-size: 80px;
+	font-family: Comic Sans MS;
+	
+
+
+
+}
+	
+table{font-size: 30px;}
+
+
+}
+h1{
+	font-size: 200px;
+	font-family: Comic Sans MS;
+	font-weight: normal;
+	
+}
+
+button{
+	background: #d3a4ff;
+	color: black;
+	padding: 6px 50px;
+	display: block;
+	font-family: Comic Sans MS;
+	font-size:20px;
+	text-decoration: none;
+	border-radius: 20px;
+	vertical-align: middle;
+}
+
+#as{background: #d3a4ff;
+	color: black;
+	padding: 5px 5px;
+	display: block;
+	font-family: Comic Sans MS;
+	font-size:15px;
+	text-decoration: none;
+	border-radius: 20px;
+
+
+
+
+}
+
+#llres{
+	width: 500px;
+	height: 600px;
+vertical-align: top;
+}
+#secp4{height: 1500px;
+	background: #A569BD;}
+
+#table1{
+
+
+}
+h6{
+	font-size: 23px;
+	font-family: Comic Sans MS;
+	font-weight: normal;
+}
+
+#table0{
+
+	background: #d3a4ff;
+	display: block;
+	border-radius: 20px;
+	text-decoration: none;
+	font-family: Comic Sans MS;
+	color: black;
+}
+#p0{
+	font-size: 50px;
+	font-family: Comic Sans MS;
+	text-decoration: none;
+}
+#camuflaje{
+	color: #d3a4ff;
+	background: #d3a4ff;
+}
+#camuflaje2{
+	color: #A569BD;
+	background: #A569BD;
+}
+
+#pmenu{
+	height: 500px;
+
+}
+#smenu{
+	height: 650px;
+	background: #A569BD;
+}
+#camuflaje3{
+	color: #A569BD;
+	background: #A569BD;
+}
+#inf{
+	font-size: 300px;
+	font-family: Comic Sans MS;
+	color: black;
+}
+#cont{
+	height: 150px;
+	width: 150px;
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+}
+#con{
+	height: 100px;
+	width: 100px;
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+}
+
+
+#infoim1{
+	font-size: 25px;
+	font-family: Comic Sans MS;
+	
+	vertical-align: middle;
+}
+#infoim2{
+	font-size: 30px;
+	font-family: Comic Sans MS;
+	color: #F2AEFF;
+	vertical-align: middle;
+}
+
+#infoen1{
+	font-size: 20px;
+	font-family: Comic Sans MS;
+
+
+}
+
+#infoen2{
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	color: #E5A7F1;
+
+}
+
+#mp1{
+
+		font-size: 25px;
+		font-family: Comic Sans MS;
+}
+
+#mp2{
+
+
+font-size: 15px;
+		font-family: Comic Sans MS;
+		color: #F1A7F0;
+}
+
+#lo{
+
+	font-size: 50px;
+}
+
+#lo2{
+	height: 180px;
+	background: #A569BD;
+}
+
+#cam{color: #A569BD;}
